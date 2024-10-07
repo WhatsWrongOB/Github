@@ -16,3 +16,9 @@ function divide(a, b) {
 }
 
 divide(2, 3);
+
+function greet(name){
+  console.log("Hello" + name)
+}
+
+greet("Obaid")
