@@ -10,3 +10,9 @@ function sub(a, b) {
 }
 
 sub(2, 3);
+
+function divide(a, b) {
+  return a / b;
+}
+
+divide(2, 3);
