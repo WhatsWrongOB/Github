@@ -1,9 +1,8 @@
-
-function add(a, b) {
+function plus(a, b) {
   return a + b;
 }
 
-add(2, 3);
+plus(2, 3);
 
 function sub(a, b) {
   return a - b;
@@ -17,8 +16,8 @@ function divide(a, b) {
 
 divide(2, 3);
 
-function greet(name){
-  console.log("Hello" + name)
+function greet(name) {
+  console.log("Hello" + name);
 }
 
-greet("Obaid")
+greet("Obaid");
